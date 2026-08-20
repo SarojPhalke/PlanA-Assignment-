@@ -5,7 +5,7 @@
 
 <!-- wp:spectra/content {"tagName":"h1","text":"Crafted Coffee for Every Moment","isRootBlock":false,"style":{"typography":{"fontFamily":"Default"}},"textColor":"#ffffff","responsiveControls":{"lg":{"style":{"typography":{"fontFamily":"Default"}}},"md":{"style":{"typography":{"fontFamily":"Default"}}},"sm":{"style":{"typography":{"fontFamily":"Default"}}}},"spectraId":"spectra-7fd3677e-title"} /-->
 
-<!-- wp:spectra/content {"text":"\u003cstrong\u003eDiscover freshly roasted specialty coffee, carefully crafted to bring rich flavor and warmth to every cup.\u003c/strong\u003e","isRootBlock":false,"textColor":"#f3e9dc","style":{"typography":{"fontSize":"18px","lineHeight":"1.6"}},"spectraId":"spectra-mt1cw17l-viw825"} /-->
+<!-- wp:spectra/content {"text":"\u003cstrong\u003eDiscover freshly roasted specialty coffee, carefully crafted to bring rich flavor and warmth to every cup.\u003c/strong\u003e","isRootBlock":false,"style":{"typography":{"fontSize":"18px","lineHeight":"1.6"}},"textColor":"#f3e9dc","spectraId":"spectra-mt1cw17l-viw825"} /-->
 <!-- /wp:spectra/container -->
 
 <!-- wp:spectra/buttons {"layout":{"type":"flex","flexWrap":"nowrap"},"className":"","style":{"spacing":{"padding":{"top":"60px"}}},"responsiveControls":{"lg":{"layout":{"type":"flex","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"60px"}}}},"md":{"layout":{"type":"flex","flexWrap":"nowrap"}},"sm":{"layout":{"type":"flex","flexWrap":"nowrap"}}},"spectraId":"spectra-7fd3677e-btns"} -->
@@ -62,7 +62,7 @@
 
 <!-- wp:spectra/content {"tagName":"p","text":"Rich and bold espresso brewed to perfection from fresh specialty beans.​","isRootBlock":false,"style":{"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center"}}}},"spectraId":"spectra-mlhou7wj-xmntzk"} /-->
 
-<!-- wp:spectra/content {"tagName":"p","text":"$3.50","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-1"} /-->
+<!-- wp:spectra/content {"tagName":"p","text":"$3.50","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-1"} /-->
 
 <!-- wp:spectra/buttons {"layout":{"type":"flex","justifyContent":"center","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"top":"8px"}}},"spectraId":"spectra-btns-1"} -->
 <!-- wp:spectra/button {"text":"Order Now","linkURL":"#contact","linkRel":[null,null,null],"linkTarget":"_self","size":"14px","textColorHover":"var(\u002d\u002dast-global-color-5)","backgroundColorHover":"var(\u002d\u002dast-global-color-0)","style":{"border":{"width":"1px","radius":"4px"}},"backgroundColor":"var(\u002d\u002dast-global-color-0)","textColor":"var(\u002d\u002dast-global-color-5)","borderColor":"var(\u002d\u002dast-global-color-0)","spectraId":"spectra-btn-1"} /-->
@@ -80,7 +80,7 @@
 
 <!-- wp:spectra/content {"tagName":"p","text":"Smooth espresso topped with velvety steamed milk and a rich layer of microfoam.​","isRootBlock":false,"style":{"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center"}}}},"spectraId":"spectra-71e370af-eb08-485a-ad65-94695233d415"} /-->
 
-<!-- wp:spectra/content {"tagName":"p","text":"$4.50","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-2"} /-->
+<!-- wp:spectra/content {"tagName":"p","text":"$4.50","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-2"} /-->
 
 <!-- wp:spectra/buttons {"layout":{"type":"flex","justifyContent":"center","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"top":"8px"}}},"spectraId":"spectra-btns-2"} -->
 <!-- wp:spectra/button {"text":"Order Now","linkURL":"#contact","linkRel":[null,null,null],"linkTarget":"_self","size":"14px","textColorHover":"var(\u002d\u002dast-global-color-5)","backgroundColorHover":"var(\u002d\u002dast-global-color-0)","style":{"border":{"width":"1px","radius":"4px"}},"backgroundColor":"var(\u002d\u002dast-global-color-0)","textColor":"var(\u002d\u002dast-global-color-5)","borderColor":"var(\u002d\u002dast-global-color-0)","spectraId":"spectra-btn-2"} /-->
@@ -98,7 +98,7 @@
 
 <!-- wp:spectra/content {"tagName":"p","text":"Slow-steeped for 16 hours to deliver an ultra-smooth, naturally sweet coffee taste.​","isRootBlock":false,"style":{"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center"}}}},"spectraId":"spectra-1349183c-1fcc-47c9-82b2-5c0e30ac87f0"} /-->
 
-<!-- wp:spectra/content {"tagName":"p","text":"$4.95","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-3"} /-->
+<!-- wp:spectra/content {"tagName":"p","text":"$4.95","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-3"} /-->
 
 <!-- wp:spectra/buttons {"layout":{"type":"flex","justifyContent":"center","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"top":"8px"}}},"spectraId":"spectra-btns-3"} -->
 <!-- wp:spectra/button {"text":"Order Now","linkURL":"#contact","linkRel":[null,null,null],"linkTarget":"_self","size":"14px","textColorHover":"var(\u002d\u002dast-global-color-5)","backgroundColorHover":"var(\u002d\u002dast-global-color-0)","style":{"border":{"width":"1px","radius":"4px"}},"backgroundColor":"var(\u002d\u002dast-global-color-0)","textColor":"var(\u002d\u002dast-global-color-5)","borderColor":"var(\u002d\u002dast-global-color-0)","spectraId":"spectra-btn-3"} /-->
@@ -112,9 +112,9 @@
 <!-- wp:spectra/container {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"bottom":"48px"}},"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"bottom":"48px"}},"typography":{"textAlign":"center"}},"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}}},"spectraId":"spectra-contact-titlewrap"} -->
 <!-- wp:spectra/content {"tagName":"span","text":"CONTACT US","isRootBlock":false,"style":{"spacing":{"margin":{"bottom":"0px"}},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontSize":"16px","letterSpacing":"2px","fontStyle":"normal","fontWeight":"600"}},"textColor":"ast-global-color-5","fontFamily":"cormorant-garamond","spectraId":"spectra-contact-prefix"} /-->
 
-<!-- wp:spectra/content {"tagName":"h2","text":"Get in Touch","isRootBlock":false,"textColor":"ast-global-color-5","style":{"spacing":{"margin":{"top":"8px","bottom":"0px"}},"typography":{"textAlign":"center"}},"spectraId":"spectra-contact-title"} /-->
+<!-- wp:spectra/content {"tagName":"h2","text":"Get in Touch","isRootBlock":false,"style":{"spacing":{"margin":{"top":"8px","bottom":"0px"}},"typography":{"textAlign":"center"}},"textColor":"ast-global-color-5","spectraId":"spectra-contact-title"} /-->
 
-<!-- wp:spectra/separator {"separatorAlign":"center","separatorWidth":"64px","separatorHeight":"2px","separatorColor":"var(\u002d\u002dast-global-color-5)","style":{"spacing":{"margin":{"top":"16px"}}},"spectraId":"spectra-contact-separator"} /-->
+<!-- wp:spectra/separator {"separatorAlign":"center","separatorColor":"var(\u002d\u002dast-global-color-5)","style":{"spacing":[]},"responsiveControls":{"lg":{"separatorAlign":"center"}},"spectraId":"spectra-contact-separator"} /-->
 <!-- /wp:spectra/container -->
 
 <!-- wp:html -->
@@ -223,31 +223,30 @@
 <!-- /wp:html -->
 
 <!-- wp:spectra/container {"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null},"variationSelected":true,"style":{"spacing":{"blockGap":"40px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"blockGap":"40px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null}},"sm":{"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical"},"style":{"spacing":{"blockGap":"30px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}}}},"spectraId":"spectra-contact-main-grid"} -->
-
-<!-- wp:spectra/container {"className":"brewcraft-form-card","variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-cf7-form-box"} -->
-<!-- wp:spectra/content {"tagName":"h3","text":"Send Us a Message","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"textAlign":"left","fontSize":"24px"}},"textColor":"ast-global-color-5","responsiveControls":{"lg":[]},"spectraId":"spectra-cf7-title"} /-->
+<!-- wp:spectra/container {"variationSelected":true,"className":"brewcraft-form-card","style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-cf7-form-box"} -->
+<!-- wp:spectra/content {"tagName":"h3","text":"Send Us a Message","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5","responsiveControls":{"lg":[]},"spectraId":"spectra-cf7-title"} /-->
 
 <!-- wp:shortcode -->
 [contact-form-7 id="71ffe37" title="Contact Form"]
 <!-- /wp:shortcode -->
 <!-- /wp:spectra/container -->
 
-<!-- wp:spectra/container {"className":"brewcraft-info-card","layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-contact-info-wrap"} -->
-
+<!-- wp:spectra/container {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start"},"variationSelected":true,"className":"brewcraft-info-card","style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-contact-info-wrap"} -->
 <!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"14px"}},"spectraId":"spectra-mlixmlzp-e02qon"} -->
-<!-- wp:spectra/content {"tagName":"h4","text":"123 Demo St, Brooklyn, \u003cbr\u003eNY 12345, United States​","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"textAlign":"left","fontSize":"22px"}},"textColor":"ast-global-color-5","responsiveControls":{"lg":[]},"spectraId":"spectra-mlixoo8a-tdstsa"} /-->
+<!-- wp:spectra/content {"tagName":"h4","text":"123 Demo St, Brooklyn, \u003cbr\u003eNY 12345, United States​","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5","responsiveControls":{"lg":[]},"spectraId":"spectra-mlixoo8a-tdstsa"} /-->
 
 <!-- wp:spectra/buttons {"spectraId":"spectra-mlixp4es-yn43is"} -->
 <!-- wp:spectra/button {"text":"Get Direction","linkURL":"#","linkRel":[null,null,null],"linkTarget":"_self","icon":"location-arrow","iconPosition":"before","textColorHover":"var(\u002d\u002dast-global-color-5)","iconColor":"var(\u002d\u002dast-global-color-5)","backgroundColorHover":"var(\u002d\u002dast-global-color-0)","style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"border":{"width":"1px","radius":"4px"}},"backgroundColor":"transparent","textColor":"ast-global-color-5","borderColor":"ast-global-color-5","responsiveControls":{"lg":{"borderColor":"ast-global-color-5","style":{"border":{"width":"1px","radius":"4px"}}}},"spectraId":"spectra-mlixp4i8-165lox"} /-->
 <!-- /wp:spectra/buttons -->
 <!-- /wp:spectra/container -->
 
-<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"100%","separatorHeight":"1px","separatorColor":"rgba(243, 233, 220, 0.2)","spectraId":"spectra-info-sep-1"} /-->
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorColor":"rgba(243, 233, 220, 0.2)","responsiveControls":{"lg":{"separatorAlign":"left"}},"spectraId":"spectra-info-sep-1"} /-->
 
 <!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"12px"}},"spectraId":"spectra-mlixmlzv-yqr5nr"} -->
 <!-- wp:spectra/list {"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-mlixs9kh-qg0kjp"} -->
 <!-- wp:spectra/list-child-item {"index":1,"style":{"spacing":{"blockGap":"6px"},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5","spectraId":"spectra-mlixs9pp-e76u2v"} -->
 <!-- wp:spectra/list-child-icon {"itemIndex":1,"icon":"clock","flipForRTL":false,"iconSize":"18px","spectraId":"spectra-mlixs9v7-pux3px"} /-->
+
 <!-- wp:spectra/container {"variationSelected":true,"spectraId":"spectra-mlixs9ve-ntrqfw"} -->
 <!-- wp:spectra/content {"tagName":"h6","text":"Opening Hours","isRootBlock":false,"style":{"typography":{"textTransform":"uppercase","letterSpacing":"2px","fontSize":"13px"}},"spectraId":"spectra-mlixsd23-jhilnu"} /-->
 <!-- /wp:spectra/container -->
@@ -256,26 +255,30 @@
 
 <!-- wp:spectra/container {"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null},"variationSelected":true,"style":{"spacing":{"blockGap":"20px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-mliy2d34-9xs1kd"} -->
 <!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"layout":{"columnSpan":1,"rowSpan":1}},"spectraId":"spectra-mliy2es0-xetps2"} -->
-<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"40px","separatorHeight":"1px","separatorColor":"var(\u002d\u002dast-global-color-5)","spectraId":"spectra-mliy4hg1-tlkw1s"} /-->
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorColor":"var(\u002d\u002dast-global-color-5)","responsiveControls":{"lg":{"separatorAlign":"left"}},"spectraId":"spectra-mliy4hg1-tlkw1s"} /-->
+
 <!-- wp:spectra/content {"tagName":"h5","text":"Monday-Thursday","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontSize":"16px"}},"textColor":"ast-global-color-5","spectraId":"spectra-mliy5kb7-85zz7v"} /-->
+
 <!-- wp:spectra/content {"tagName":"p","text":"12pm - 10pm​","isRootBlock":false,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5","spectraId":"spectra-mliy657m-wqqvc0"} /-->
 <!-- /wp:spectra/container -->
 
 <!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"layout":{"columnSpan":1,"rowSpan":1}},"spectraId":"spectra-b9f6d6a8-28b2-44db-8d4b-6bb7ead629d9"} -->
-<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"40px","separatorHeight":"1px","separatorColor":"var(\u002d\u002dast-global-color-5)","spectraId":"spectra-9e20583e-8040-4797-ba21-e1ab48b5c101"} /-->
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorColor":"var(\u002d\u002dast-global-color-5)","responsiveControls":{"lg":{"separatorAlign":"left"}},"spectraId":"spectra-9e20583e-8040-4797-ba21-e1ab48b5c101"} /-->
+
 <!-- wp:spectra/content {"tagName":"h5","text":"Friday-Sunday","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontSize":"16px"}},"textColor":"ast-global-color-5","spectraId":"spectra-97d91e2c-5c5a-4ed0-ae77-724a7c21892b"} /-->
+
 <!-- wp:spectra/content {"tagName":"p","text":"12pm - 11pm​","isRootBlock":false,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5","spectraId":"spectra-0c184245-1390-4846-b40c-aa271369fddc"} /-->
 <!-- /wp:spectra/container -->
 <!-- /wp:spectra/container -->
 <!-- /wp:spectra/container -->
 
-<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"100%","separatorHeight":"1px","separatorColor":"rgba(243, 233, 220, 0.2)","spectraId":"spectra-info-sep-2"} /-->
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorColor":"rgba(243, 233, 220, 0.2)","responsiveControls":{"lg":{"separatorAlign":"left"}},"spectraId":"spectra-info-sep-2"} /-->
 
 <!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"8px"}},"spectraId":"spectra-direct-contact"} -->
 <!-- wp:spectra/content {"tagName":"h4","text":"For reservation​","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"textAlign":"left","fontSize":"18px"}},"textColor":"ast-global-color-5","spectraId":"spectra-mliya2jx-kd2pxl"} /-->
+
 <!-- wp:spectra/content {"tagName":"p","text":"+1-123 456 7890 | book@example.com","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-5","responsiveControls":{"lg":{"style":{"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"20px"}}},"md":{"style":{"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"16px"}}}},"spectraId":"spectra-mliyaiu8-iwgyu9"} /-->
 <!-- /wp:spectra/container -->
-
 <!-- /wp:spectra/container -->
 <!-- /wp:spectra/container -->
 <!-- /wp:spectra/container -->
