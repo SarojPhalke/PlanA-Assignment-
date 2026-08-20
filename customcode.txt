@@ -1,0 +1,281 @@
+<!-- wp:spectra/container {"anchor":"","align":"full","layout":{"type":"flex"},"variationSelected":true,"minHeight":"100vh","background":{"type":"image","media":{"id":67,"url":"https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2021/05/cafe-template-hero-bg-img.jpg","type":"image","alt":"","title":"cafe-template-hero-bg-img"},"backgroundSize":"cover","backgroundPosition":{"x":0.5,"y":0.5},"backgroundRepeat":"no-repeat","backgroundAttachment":"fixed"},"dimRatio":30,"backgroundColor":"var(\u002d\u002dast-global-color-7)","isBlockRootParent":true,"metadata":{"category":"831","categorySlug":"hero","name":"Hero","description":"Full-width flex container with background image, containing a constrained inner container that vertically aligns content, featuring heading, subheading, and call-to-action button stacked in a single column."},"className":"","style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"minHeight":"100vh","background":{"type":"image","media":{"id":67,"url":"https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2021/05/cafe-template-hero-bg-img.jpg","type":"image","alt":"","title":"cafe-template-hero-bg-img"},"backgroundSize":"cover","backgroundPosition":{"x":0.5,"y":0.5},"backgroundRepeat":"no-repeat","backgroundAttachment":"fixed"},"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":{"type":"flex"}},"md":{"minHeight":"80vh","background":{"type":"image","media":{"id":67,"url":"https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2021/05/cafe-template-hero-bg-img.jpg","type":"image","alt":"","title":"cafe-template-hero-bg-img"},"backgroundSize":"cover","backgroundPosition":{"x":0.5,"y":0.5},"backgroundRepeat":"no-repeat","backgroundAttachment":"scroll"},"style":{"spacing":{"padding":{"top":"104px","bottom":"50px","left":"40px","right":"40px"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center","flexWrap":"nowrap"}},"sm":{"minHeight":"70vh","background":{"type":"image","media":{"id":67,"url":"https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2021/05/cafe-template-hero-bg-img.jpg","type":"image","alt":"","title":"cafe-template-hero-bg-img"},"backgroundSize":"cover","backgroundPosition":{"x":0.5,"y":0.5},"backgroundRepeat":"no-repeat","backgroundAttachment":"scroll"},"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"24px","right":"24px"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center","flexWrap":"nowrap"}}},"spectraId":"f98fd36a"} -->
+<!-- wp:spectra/container {"layout":{"type":"constrained","contentSize":"1200px"},"variationSelected":true,"className":"","style":{"spacing":{"padding":{"top":"0px","right":"25px","bottom":"0px","left":"0px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","right":"25px","bottom":"0px","left":"0px"}}},"layout":{"type":"constrained","contentSize":"1200px"}},"md":{"layout":{"type":"flex","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start","gap":"24px","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"0px","right":"25px","bottom":"0px","left":"0px"},"blockGap":"0"}}},"sm":{"layout":{"type":"flex","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start","gap":"24px","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"0px","right":"25px","bottom":"0px","left":"0px"},"blockGap":"0"}}}},"spectraId":"spectra-7fd3677e-root"} -->
+<!-- wp:spectra/container {"layout":{"type":"flex","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start","gap":"12px","flexWrap":"nowrap"},"variationSelected":true,"className":"","style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"layout":{"type":"flex","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start","gap":"12px","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}}},"md":{"layout":{"type":"flex","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start","gap":"12px","flexWrap":"nowrap"}},"sm":{"layout":{"type":"flex","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start","gap":"12px","flexWrap":"nowrap"}}},"spectraId":"spectra-7fd3677e-titlewrap"} -->
+<!-- wp:spectra/content {"tagName":"h6","text":"WELCOME TO BREWCRAFT","isRootBlock":false,"className":"","style":{"typography":{"fontSize":"15px","fontFamily":"Default","letterSpacing":"2px"}},"textColor":"#ffffff","responsiveControls":{"lg":{"style":{"typography":{"fontSize":"15px","fontFamily":"Default","letterSpacing":"2px"}}},"md":{"style":{"typography":{"fontSize":"15px","fontFamily":"Default","letterSpacing":"2px"}}},"sm":{"style":{"typography":{"fontSize":"15px","fontFamily":"Default","letterSpacing":"2px"}}}},"spectraId":"spectra-7fd3677e-prefix"} /-->
+
+<!-- wp:spectra/content {"tagName":"h1","text":"Crafted Coffee for Every Moment","isRootBlock":false,"style":{"typography":{"fontFamily":"Default"}},"textColor":"#ffffff","responsiveControls":{"lg":{"style":{"typography":{"fontFamily":"Default"}}},"md":{"style":{"typography":{"fontFamily":"Default"}}},"sm":{"style":{"typography":{"fontFamily":"Default"}}}},"spectraId":"spectra-7fd3677e-title"} /-->
+
+<!-- wp:spectra/content {"text":"\u003cstrong\u003eDiscover freshly roasted specialty coffee, carefully crafted to bring rich flavor and warmth to every cup.\u003c/strong\u003e","isRootBlock":false,"textColor":"#f3e9dc","style":{"typography":{"fontSize":"18px","lineHeight":"1.6"}},"spectraId":"spectra-mt1cw17l-viw825"} /-->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/buttons {"layout":{"type":"flex","flexWrap":"nowrap"},"className":"","style":{"spacing":{"padding":{"top":"60px"}}},"responsiveControls":{"lg":{"layout":{"type":"flex","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"60px"}}}},"md":{"layout":{"type":"flex","flexWrap":"nowrap"}},"sm":{"layout":{"type":"flex","flexWrap":"nowrap"}}},"spectraId":"spectra-7fd3677e-btns"} -->
+<!-- wp:spectra/button {"text":"Explore Our Coffee","linkURL":"#menu","linkRel":[null,null,null],"linkTarget":"_self","icon":"","iconPosition":"after","size":"16px","textColorHover":"var(\u002d\u002dast-global-color-3)","backgroundColorHover":"var(\u002d\u002dast-global-color-5)","className":"","backgroundColor":"","textColor":"var(\u002d\u002dast-global-color-5)","responsiveControls":{"lg":{"size":"16px"},"md":{"size":"16px"},"sm":{"size":"16px"}},"spectraId":"spectra-7fd3677e-btn"} /-->
+<!-- /wp:spectra/buttons -->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"anchor":"about","align":"full","layout":{"type":"grid","columnCount":2},"variationSelected":true,"dimRatio":100,"isBlockRootParent":true,"metadata":{"name":"About","category":"825","categorySlug":"about","description":"2 column grid layout, first column contains prefix 'ABOUT US' then heading, second column contains 3 paragraph description, both sections separated by consistent vertical spacing."},"className":"","style":{"spacing":{"padding":{"top":"104px","bottom":"104px","left":"220px","right":"220px"},"blockGap":"0"}},"responsiveControls":{"lg":{"layout":{"type":"grid","columnCount":2},"style":{"spacing":{"padding":{"top":"104px","bottom":"104px","left":"220px","right":"220px"},"blockGap":"0"}}},"md":{"layout":{"type":"grid","columnCount":2},"style":{"spacing":{"padding":{"top":"80px","bottom":"80px","left":"40px","right":"40px"}}}},"sm":{"layout":{"type":"grid","columnCount":1},"style":{"spacing":{"padding":{"top":"64px","bottom":"64px","left":"24px","right":"24px"}}}}},"spectraId":"efc6e0c8"} -->
+<!-- wp:spectra/container {"layout":{"type":"flex","orientation":"vertical","gap":"0px","flexWrap":"nowrap"},"variationSelected":true,"className":"","style":{"spacing":{"blockGap":"40px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"40px"}},"border":{"width":"0px","style":"none"}},"spectraAnimationOnce":true,"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","right":"40px","bottom":"0px","left":"0px"},"blockGap":"40px"},"border":{"width":"0px","style":"none"}},"layout":{"type":"flex","orientation":"vertical","gap":"0px","flexWrap":"nowrap"}},"md":{"layout":{"type":"flex","orientation":"vertical","gap":"0px","flexWrap":"nowrap"},"style":{"spacing":{"blockGap":"40px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"40px"}},"border":{"width":"0px","style":"none"}}},"sm":{"layout":{"type":"flex","orientation":"vertical","gap":"0px","flexWrap":"nowrap"},"style":{"spacing":{"blockGap":"30px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"40px"}},"border":{"width":"0px","style":"none"}}}},"spectraId":"spectra-b8b7a42e-root"} -->
+<!-- wp:spectra/container {"layout":{"type":"flex","orientation":"vertical","gap":"0px","flexWrap":"nowrap","verticalAlignment":"bottom"},"variationSelected":true,"className":"","style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"40px"}},"spectraAnimationOnce":true,"responsiveControls":{"lg":{"layout":{"type":"flex","orientation":"vertical","gap":"0px","flexWrap":"nowrap","verticalAlignment":"bottom"},"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"40px"}}},"md":{"layout":{"type":"flex","orientation":"vertical","gap":"0px","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"10px"}}},"sm":{"layout":{"type":"flex","orientation":"vertical","gap":"0px","flexWrap":"nowrap"}}},"spectraId":"spectra-b8b7a42e-titlewrap"} -->
+<!-- wp:spectra/content {"tagName":"span","text":"ABOUT US","isRootBlock":false,"className":"","style":{"spacing":{"margin":{"bottom":"0px"}},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-0"}}},"typography":{"fontSize":"16px","letterSpacing":"2px","fontStyle":"normal","fontWeight":"600"}},"textColor":"ast-global-color-0","fontFamily":"cormorant-garamond","responsiveControls":{"lg":{"style":{"color":{"text":"var(\u002d\u002dast-global-color-0)"},"spacing":{"margin":{"bottom":"0px"}},"typography":{"letterSpacing":"2px","fontSize":"16px","fontStyle":"normal","fontWeight":"600"}},"fontFamily":"cormorant-garamond"},"md":{"style":{"typography":{"fontSize":"15px"},"spacing":{"margin":{"bottom":"24px"}}}},"sm":{"style":{"typography":{"fontSize":"14px"},"spacing":{"margin":{"bottom":"24px"}}}}},"spectraId":"spectra-b8b7a42e-prefix"} /-->
+
+<!-- wp:spectra/content {"tagName":"h2","text":"Our Story","isRootBlock":false,"className":"","style":{"spacing":{"margin":{"bottom":"0px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"margin":{"bottom":"0px"}}}},"md":{"style":{"typography":{"fontFamily":"Default"},"spacing":{"margin":{"bottom":"0px"}}}},"sm":{"style":{"typography":{"fontFamily":"Default"},"spacing":{"margin":{"bottom":"0px"}}}}},"spectraId":"spectra-b8b7a42e-title"} /-->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"64px","separatorHeight":"2px","separatorColor":"var(\u002d\u002dast-global-color-0)","className":"","responsiveControls":{"lg":{"separatorWidth":"64px","separatorHeight":"2px","separatorAlign":"left"},"sm":{"separatorWidth":"40px","separatorHeight":"2px"},"md":{"separatorWidth":"64px","separatorHeight":"2px"}},"spectraId":"spectra-b8b7a42e-separator"} /-->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"layout":{"type":"flex","orientation":"vertical","gap":"20px","justifyContent":"flex-start","verticalAlignment":"flex-start","flexWrap":"nowrap"},"variationSelected":true,"className":"","style":{"spacing":{"padding":{"top":"64px","right":"94px","bottom":"0px","left":"0px"},"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"20px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"64px","right":"94px","bottom":"0px","left":"0px"},"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"20px"}},"layout":{"type":"flex","orientation":"vertical","gap":"20px","justifyContent":"flex-start","verticalAlignment":"flex-start","flexWrap":"nowrap"}},"md":{"style":{"spacing":{"padding":{"top":"40px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"flex","orientation":"vertical","gap":"20px","justifyContent":"flex-start","verticalAlignment":"flex-start","flexWrap":"nowrap"}},"sm":{"layout":{"type":"flex","orientation":"vertical","gap":"20px","justifyContent":"flex-start","verticalAlignment":"flex-start","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"44px","right":"0px","bottom":"0px","left":"0px"},"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0"}}}},"spectraId":"spectra-d516ce36-root"} -->
+<!-- wp:spectra/content {"tagName":"p","text":"At BrewCraft Coffee, we believe great coffee starts with quality beans and careful preparation. We select flavorful beans, roast them with care, and serve every cup fresh.","isRootBlock":false,"className":"","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"responsiveControls":{"lg":{"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}},"md":[],"sm":[]},"spectraId":"spectra-d516ce36-title"} /-->
+
+<!-- wp:spectra/content {"tagName":"p","text":"From a classic espresso to a smooth cold brew, our goal is simple — to make every coffee experience memorable.","isRootBlock":false,"className":"","responsiveControls":{"lg":[],"md":[],"sm":[]},"spectraId":"spectra-d516ce36-desc"} /-->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"align":"full","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center","flexWrap":"nowrap"},"variationSelected":true,"minHeight":"700px","background":{"type":"image","media":{"id":47,"url":"https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2021/05/cafe-template-quote-bg-img.jpg","type":"image","alt":"","title":"cafe-template-quote-bg-img"},"backgroundSize":"cover","backgroundPosition":{"x":0.5,"y":0.5},"backgroundRepeat":"no-repeat","backgroundAttachment":"scroll"},"dimRatio":30,"backgroundColor":"var(\u002d\u002dast-global-color-7)","isBlockRootParent":true,"metadata":{"name":"Testimonials","category":"830","categorySlug":"testimonials","description":"Single column layout with a full-height background image, containing centered quote then testimonial text followed by username, emphasizing visual hierarchy through the background and text arrangement."},"className":"","style":{"spacing":{"padding":{"top":"10px","bottom":"10px","left":"0px","right":"0px"},"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"minHeight":"700px","background":{"type":"image","media":{"id":47,"url":"https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2021/05/cafe-template-quote-bg-img.jpg","type":"image","alt":"","title":"cafe-template-quote-bg-img"},"backgroundSize":"cover","backgroundPosition":{"x":0.5,"y":0.5},"backgroundRepeat":"no-repeat","backgroundAttachment":"scroll"},"style":{"spacing":{"padding":{"top":"10px","bottom":"10px","left":"0px","right":"0px"},"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center","flexWrap":"nowrap"}},"md":{"minHeight":"480px","background":{"type":"image","media":{"id":47,"url":"https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2021/05/cafe-template-quote-bg-img.jpg","type":"image","alt":"","title":"cafe-template-quote-bg-img"},"backgroundSize":"auto","backgroundPosition":{"x":0.5,"y":0.5},"backgroundRepeat":"no-repeat","backgroundAttachment":"scroll"},"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center","flexWrap":"nowrap"}},"sm":{"minHeight":"480px","background":{"type":"image","media":{"id":47,"url":"https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2021/05/cafe-template-quote-bg-img.jpg","type":"image","alt":"","title":"cafe-template-quote-bg-img"},"backgroundSize":"auto","backgroundPosition":{"x":0.5,"y":0.5},"backgroundRepeat":"no-repeat","backgroundAttachment":"scroll"},"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center","flexWrap":"nowrap"}}},"spectraId":"488b478a"} -->
+<!-- wp:spectra/container {"layout":{"type":"constrained","contentSize":"1200px"},"variationSelected":true,"className":"","style":{"spacing":{"padding":{"top":"48px","right":"40px","bottom":"48px","left":"40px"},"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"48px","right":"40px","bottom":"48px","left":"40px"},"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0px"}},"layout":{"type":"constrained","contentSize":"1200px"}},"md":{"style":{"spacing":{"padding":{"top":"48px","right":"40px","bottom":"48px","left":"40px"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center","flexWrap":"nowrap","gap":"20px"}},"sm":{"style":{"spacing":{"padding":{"top":"48px","right":"24px","bottom":"48px","left":"24px"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"center","flexWrap":"nowrap","gap":"20px"}}},"spectraId":"spectra-465aa326-root"} -->
+<!-- wp:spectra/icons {"layout":{"type":"flex","justifyContent":"center","verticalAlignment":"center","flexWrap":"nowrap"},"className":"","style":{"spacing":{"margin":{"bottom":"24px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"margin":{"bottom":"24px"}}},"layout":{"type":"flex","justifyContent":"center","verticalAlignment":"center","flexWrap":"nowrap"}},"md":{"layout":{"type":"flex","justifyContent":"center","verticalAlignment":"center","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"bottom":"24px"}}}},"sm":{"layout":{"type":"flex","justifyContent":"center","verticalAlignment":"center","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"bottom":"24px"}}}}},"spectraId":"spectra-465aa326-icons"} -->
+<!-- wp:spectra/icon {"icon":"quote-left","size":"40px","textColor":"var(\u002d\u002dast-global-color-5)","className":"","style":{"border":{"radius":"50%","width":"0px","style":"none"}},"backgroundColor":"#6EC1E3","responsiveControls":{"lg":{"size":"40px","style":{"border":{"width":"0px","radius":"50%","style":"none"}}},"md":{"size":"40px","style":{"border":{"width":"0px","radius":"50%","style":"none"}}},"sm":{"size":"40px","style":{"border":{"width":"0px","radius":"50%","style":"none"}}}},"spectraId":"spectra-465aa326-icon"} /-->
+<!-- /wp:spectra/icons -->
+
+<!-- wp:spectra/content {"tagName":"p","text":"It gives me great pleasure to contribute to the community with the best coffee in town and a place to build relationships.","isRootBlock":false,"className":"","style":{"spacing":{"margin":{"top":"24px","bottom":"20px"},"padding":{"top":"40px","bottom":"40px"}},"typography":{"textAlign":"center","fontSize":"28px","fontStyle":"italic"}},"textColor":"#ffffff","responsiveControls":{"lg":{"style":{"spacing":{"margin":{"top":"24px","bottom":"20px"},"padding":{"top":"40px","bottom":"40px"}},"typography":{"textAlign":"center","fontSize":"28px","fontStyle":"italic"}}},"md":{"style":{"spacing":{"margin":{"top":"22px","bottom":"18px"}},"typography":{"fontSize":"22px"}}},"sm":{"style":{"spacing":{"margin":{"top":"24px","bottom":"16px"},"padding":{"top":"30px","bottom":"30px"}},"typography":{"textAlign":"center","fontSize":"20px"}}}},"spectraId":"spectra-465aa326-title"} /-->
+
+<!-- wp:spectra/content {"tagName":"h5","text":"Ethan Hunt. Owner.","isRootBlock":false,"className":"","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"typography":{"textAlign":"center"}},"textColor":"#ffffff","responsiveControls":{"lg":{"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"typography":{"textAlign":"center"}}},"md":{"style":[]},"sm":{"style":[]}},"spectraId":"spectra-465aa326-desc"} /-->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"anchor":"menu","align":"full","layout":{"type":"constrained","contentSize":"1200px"},"variationSelected":true,"backgroundColor":"var(\u002d\u002dast-global-color-5)","isBlockRootParent":true,"metadata":{"category":"952","categorySlug":"services","name":"Services","description":"Single column layout with a large heading followed by a paragraph, then a 3 by 3 column grid containing service cards, each card featuring an image, title, and description."},"style":{"spacing":{"padding":{"right":"60px","left":"60px","top":"104px","bottom":"104px"},"blockGap":"60px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"right":"60px","left":"60px","top":"104px","bottom":"104px"},"blockGap":"60px"}},"layout":{"type":"constrained","contentSize":"1200px"}},"md":{"style":{"spacing":{"padding":{"right":"40px","left":"40px","top":"60px","bottom":"60px"},"blockGap":"60px"}}},"sm":{"style":{"spacing":{"padding":{"right":"20px","left":"20px","top":"60px","bottom":"60px"},"blockGap":"60px"}}}},"spectraId":"spectra-mlhnstfl-gl9mzk"} -->
+<!-- wp:spectra/container {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"200px","right":"200px"}},"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"200px","right":"200px"}},"typography":{"textAlign":"center"}},"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}},"md":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"60px","right":"60px"},"margin":{"bottom":"40px"}},"typography":{"textAlign":"center"}}},"sm":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"bottom":"40px"}},"typography":{"textAlign":"center"}}}},"spectraId":"spectra-mlhnyk92-hcfs9d"} -->
+<!-- wp:spectra/content {"tagName":"h2","text":"We Serve","isRootBlock":false,"style":{"typography":[]},"spectraId":"spectra-mlhnzplm-71v3dn"} /-->
+
+<!-- wp:spectra/content {"tagName":"p","text":"Discover our freshly roasted specialty coffees, crafted to perfection with rich flavors and premium ingredients.","isRootBlock":false,"style":{"typography":[]},"spectraId":"spectra-mlho0hx8-d6g698"} /-->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null},"variationSelected":true,"style":{"spacing":{"blockGap":"40px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"blockGap":"40px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}},"sm":{"layout":{"type":"flex","justifyContent":"center"}}},"spectraId":"spectra-mlhooz9n-ifykti"} -->
+<!-- wp:spectra/container {"layout":{"type":"flex","justifyContent":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"20px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"20px"}},"layout":{"type":"flex","justifyContent":"center"}}},"spectraId":"spectra-mlhop5vg-s93unw"} -->
+<!-- wp:image {"id":776,"width":"368px","height":"368px","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"width":"368px","height":"368px","scale":"cover"},"md":{"width":"220px","height":"220px","scale":"cover"},"sm":{"width":"368px","height":"368px","scale":"cover"}},"spectraId":"spectra-mlhor5wl-ge0su3"} -->
+<figure class="wp-block-image size-full is-resized" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px"><img src="https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2026/02/cafe-template-menu-img-1-1-300x300-1.jpg" alt="Classic Espresso" class="wp-image-776" style="object-fit:cover;width:368px;height:368px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spectra/container {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"10px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}}},"spectraId":"spectra-mlhowpvk-8899ox"} -->
+<!-- wp:spectra/content {"tagName":"h3","text":"Classic Espresso​","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontSize":"22px"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontSize":"22px"}}}},"spectraId":"spectra-mlhotx0w-qk55ra"} /-->
+
+<!-- wp:spectra/content {"tagName":"p","text":"Rich and bold espresso brewed to perfection from fresh specialty beans.​","isRootBlock":false,"style":{"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center"}}}},"spectraId":"spectra-mlhou7wj-xmntzk"} /-->
+
+<!-- wp:spectra/content {"tagName":"p","text":"$3.50","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-1"} /-->
+
+<!-- wp:spectra/buttons {"layout":{"type":"flex","justifyContent":"center","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"top":"8px"}}},"spectraId":"spectra-btns-1"} -->
+<!-- wp:spectra/button {"text":"Order Now","linkURL":"#contact","linkRel":[null,null,null],"linkTarget":"_self","size":"14px","textColorHover":"var(\u002d\u002dast-global-color-5)","backgroundColorHover":"var(\u002d\u002dast-global-color-0)","style":{"border":{"width":"1px","radius":"4px"}},"backgroundColor":"var(\u002d\u002dast-global-color-0)","textColor":"var(\u002d\u002dast-global-color-5)","borderColor":"var(\u002d\u002dast-global-color-0)","spectraId":"spectra-btn-1"} /-->
+<!-- /wp:spectra/buttons -->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"layout":{"type":"flex","justifyContent":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"20px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"20px"}},"layout":{"type":"flex","justifyContent":"center"}}},"spectraId":"spectra-cfbb86d1-4318-415a-a6f4-d940453853e4"} -->
+<!-- wp:image {"id":778,"width":"368px","height":"368px","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"width":"368px","height":"368px","scale":"cover"},"md":{"width":"220px","height":"220px","scale":"cover"},"sm":{"width":"368px","height":"368px","scale":"cover"}},"spectraId":"spectra-fbb2fc0d-ea91-450f-ba6c-a9b0cf0c4237"} -->
+<figure class="wp-block-image size-full is-resized" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px"><img src="https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2026/02/cafe-template-menu-img-2-300x300-1.jpg" alt="Artisan Cappuccino" class="wp-image-778" style="object-fit:cover;width:368px;height:368px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spectra/container {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"10px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}}},"spectraId":"spectra-3f6f5015-c0ec-416c-85f3-eceeaf18a1e6"} -->
+<!-- wp:spectra/content {"tagName":"h3","text":"Artisan Cappuccino​","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontSize":"22px"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontSize":"22px"}}}},"spectraId":"spectra-e86a9eb4-1ff8-41fe-bd4f-41f5b749bb2e"} /-->
+
+<!-- wp:spectra/content {"tagName":"p","text":"Smooth espresso topped with velvety steamed milk and a rich layer of microfoam.​","isRootBlock":false,"style":{"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center"}}}},"spectraId":"spectra-71e370af-eb08-485a-ad65-94695233d415"} /-->
+
+<!-- wp:spectra/content {"tagName":"p","text":"$4.50","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-2"} /-->
+
+<!-- wp:spectra/buttons {"layout":{"type":"flex","justifyContent":"center","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"top":"8px"}}},"spectraId":"spectra-btns-2"} -->
+<!-- wp:spectra/button {"text":"Order Now","linkURL":"#contact","linkRel":[null,null,null],"linkTarget":"_self","size":"14px","textColorHover":"var(\u002d\u002dast-global-color-5)","backgroundColorHover":"var(\u002d\u002dast-global-color-0)","style":{"border":{"width":"1px","radius":"4px"}},"backgroundColor":"var(\u002d\u002dast-global-color-0)","textColor":"var(\u002d\u002dast-global-color-5)","borderColor":"var(\u002d\u002dast-global-color-0)","spectraId":"spectra-btn-2"} /-->
+<!-- /wp:spectra/buttons -->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"layout":{"type":"flex","justifyContent":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"20px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"20px"}},"layout":{"type":"flex","justifyContent":"center"}}},"spectraId":"spectra-29a998c6-1ccc-4dba-882a-d380961161dc"} -->
+<!-- wp:image {"id":782,"width":"368px","height":"368px","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"margin":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"width":"368px","height":"368px","scale":"cover"},"md":{"width":"220px","height":"220px","scale":"cover"},"sm":{"width":"368px","height":"368px","scale":"cover"}},"spectraId":"spectra-b79fd792-4f91-4a5d-b84c-bb0f47157d7b"} -->
+<figure class="wp-block-image size-full is-resized" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px"><img src="https://websitedemos.net/coffee-shop-09/wp-content/uploads/sites/1665/2026/02/cafe-template-menu-img-4-1-300x300-1.jpg" alt="Signature Cold Brew" class="wp-image-782" style="object-fit:cover;width:368px;height:368px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spectra/container {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"10px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}}},"spectraId":"spectra-996690d4-1374-4b77-bc99-7f79dd49307b"} -->
+<!-- wp:spectra/content {"tagName":"h3","text":"Signature Cold Brew​","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontSize":"22px"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontSize":"22px"}}}},"spectraId":"spectra-fa396809-fd96-4cf9-a3d7-d29f47673631"} /-->
+
+<!-- wp:spectra/content {"tagName":"p","text":"Slow-steeped for 16 hours to deliver an ultra-smooth, naturally sweet coffee taste.​","isRootBlock":false,"style":{"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center"}}}},"spectraId":"spectra-1349183c-1fcc-47c9-82b2-5c0e30ac87f0"} /-->
+
+<!-- wp:spectra/content {"tagName":"p","text":"$4.95","isRootBlock":false,"style":{"typography":{"textAlign":"center","fontStyle":"normal","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-0","responsiveControls":{"lg":{"style":{"typography":{"textAlign":"center","fontWeight":"700","fontSize":"20px"}}}},"spectraId":"spectra-price-3"} /-->
+
+<!-- wp:spectra/buttons {"layout":{"type":"flex","justifyContent":"center","flexWrap":"nowrap"},"style":{"spacing":{"margin":{"top":"8px"}}},"spectraId":"spectra-btns-3"} -->
+<!-- wp:spectra/button {"text":"Order Now","linkURL":"#contact","linkRel":[null,null,null],"linkTarget":"_self","size":"14px","textColorHover":"var(\u002d\u002dast-global-color-5)","backgroundColorHover":"var(\u002d\u002dast-global-color-0)","style":{"border":{"width":"1px","radius":"4px"}},"backgroundColor":"var(\u002d\u002dast-global-color-0)","textColor":"var(\u002d\u002dast-global-color-5)","borderColor":"var(\u002d\u002dast-global-color-0)","spectraId":"spectra-btn-3"} /-->
+<!-- /wp:spectra/buttons -->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"anchor":"contact","align":"full","layout":{"type":"constrained","contentSize":"1200px"},"variationSelected":true,"backgroundColor":"var(\u002d\u002dast-global-color-0)","isBlockRootParent":true,"metadata":{"category":"1416","categorySlug":"contact","name":"Contact Form","description":"2 column layout with Contact Form 7 shortcode on the left and address, hours, and reservation details on the right."},"style":{"spacing":{"padding":{"top":"104px","bottom":"104px","left":"60px","right":"60px"},"blockGap":"60px"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"104px","bottom":"104px","left":"60px","right":"60px"},"blockGap":"60px"}},"layout":{"type":"constrained","contentSize":"1200px"}},"md":{"style":{"spacing":{"padding":{"top":"80px","bottom":"80px","left":"40px","right":"40px"},"blockGap":"40px"}}},"sm":{"style":{"spacing":{"padding":{"top":"60px","bottom":"60px","left":"20px","right":"20px"},"blockGap":"40px"}}}},"spectraId":"spectra-mlixlnz4-t4b1gg"} -->
+<!-- wp:spectra/container {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"bottom":"48px"}},"typography":{"textAlign":"center"}},"responsiveControls":{"lg":{"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"bottom":"48px"}},"typography":{"textAlign":"center"}},"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center","verticalAlignment":"center"}}},"spectraId":"spectra-contact-titlewrap"} -->
+<!-- wp:spectra/content {"tagName":"span","text":"CONTACT US","isRootBlock":false,"style":{"spacing":{"margin":{"bottom":"0px"}},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontSize":"16px","letterSpacing":"2px","fontStyle":"normal","fontWeight":"600"}},"textColor":"ast-global-color-5","fontFamily":"cormorant-garamond","spectraId":"spectra-contact-prefix"} /-->
+
+<!-- wp:spectra/content {"tagName":"h2","text":"Get in Touch","isRootBlock":false,"textColor":"ast-global-color-5","style":{"spacing":{"margin":{"top":"8px","bottom":"0px"}},"typography":{"textAlign":"center"}},"spectraId":"spectra-contact-title"} /-->
+
+<!-- wp:spectra/separator {"separatorAlign":"center","separatorWidth":"64px","separatorHeight":"2px","separatorColor":"var(\u002d\u002dast-global-color-5)","style":{"spacing":{"margin":{"top":"16px"}}},"spectraId":"spectra-contact-separator"} /-->
+<!-- /wp:spectra/container -->
+
+<!-- wp:html -->
+<style>
+.brewcraft-form-card {
+    background: rgba(0, 0, 0, 0.25) !important;
+    border: 1px solid rgba(243, 233, 220, 0.2) !important;
+    border-radius: 12px !important;
+    padding: 36px 32px !important;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25) !important;
+    box-sizing: border-box !important;
+}
+@media (max-width: 768px) {
+    .brewcraft-form-card {
+        padding: 24px 20px !important;
+    }
+}
+.brewcraft-form-card .wpcf7 form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.brewcraft-form-card label {
+    display: block;
+    color: #f3e9dc !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.5px !important;
+    margin-bottom: 4px !important;
+}
+.brewcraft-form-card input[type="text"],
+.brewcraft-form-card input[type="email"],
+.brewcraft-form-card input[type="tel"],
+.brewcraft-form-card textarea {
+    width: 100% !important;
+    padding: 12px 16px !important;
+    border-radius: 6px !important;
+    border: 1px solid rgba(243, 233, 220, 0.3) !important;
+    background: #ffffff !important;
+    color: #2b1810 !important;
+    font-size: 15px !important;
+    box-sizing: border-box !important;
+    transition: all 0.25s ease !important;
+}
+.brewcraft-form-card textarea {
+    min-height: 110px !important;
+    resize: vertical !important;
+}
+.brewcraft-form-card input:focus,
+.brewcraft-form-card textarea:focus {
+    outline: none !important;
+    border-color: #f3e9dc !important;
+    box-shadow: 0 0 0 3px rgba(243, 233, 220, 0.35) !important;
+}
+.brewcraft-form-card input[type="submit"] {
+    background-color: #f3e9dc !important;
+    color: #3b2314 !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    letter-spacing: 1.5px !important;
+    text-transform: uppercase !important;
+    padding: 14px 28px !important;
+    border: none !important;
+    border-radius: 6px !important;
+    cursor: pointer !important;
+    width: 100% !important;
+    margin-top: 6px !important;
+    transition: all 0.3s ease !important;
+}
+.brewcraft-form-card input[type="submit"]:hover {
+    background-color: #ffffff !important;
+    transform: translateY(-2px) !important;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3) !important;
+}
+.brewcraft-form-card .wpcf7-response-output {
+    margin: 15px 0 0 0 !important;
+    padding: 12px 16px !important;
+    border-radius: 6px !important;
+    font-size: 14px !important;
+    color: #f3e9dc !important;
+    background: rgba(0, 0, 0, 0.45) !important;
+}
+.brewcraft-form-card .wpcf7-not-valid-tip {
+    color: #ffb4a2 !important;
+    font-size: 13px !important;
+    margin-top: 4px !important;
+}
+.brewcraft-info-card {
+    background: rgba(0, 0, 0, 0.25) !important;
+    border: 1px solid rgba(243, 233, 220, 0.2) !important;
+    border-radius: 12px !important;
+    padding: 36px 32px !important;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25) !important;
+    box-sizing: border-box !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 24px;
+}
+@media (max-width: 768px) {
+    .brewcraft-info-card {
+        padding: 24px 20px !important;
+    }
+}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:spectra/container {"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null},"variationSelected":true,"style":{"spacing":{"blockGap":"40px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"responsiveControls":{"lg":{"style":{"spacing":{"blockGap":"40px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null}},"sm":{"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical"},"style":{"spacing":{"blockGap":"30px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}}}},"spectraId":"spectra-contact-main-grid"} -->
+
+<!-- wp:spectra/container {"className":"brewcraft-form-card","variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-cf7-form-box"} -->
+<!-- wp:spectra/content {"tagName":"h3","text":"Send Us a Message","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"textAlign":"left","fontSize":"24px"}},"textColor":"ast-global-color-5","responsiveControls":{"lg":[]},"spectraId":"spectra-cf7-title"} /-->
+
+<!-- wp:shortcode -->
+[contact-form-7 id="71ffe37" title="Contact Form"]
+<!-- /wp:shortcode -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"className":"brewcraft-info-card","layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"flex-start","verticalAlignment":"flex-start"},"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-contact-info-wrap"} -->
+
+<!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"14px"}},"spectraId":"spectra-mlixmlzp-e02qon"} -->
+<!-- wp:spectra/content {"tagName":"h4","text":"123 Demo St, Brooklyn, \u003cbr\u003eNY 12345, United States​","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"textAlign":"left","fontSize":"22px"}},"textColor":"ast-global-color-5","responsiveControls":{"lg":[]},"spectraId":"spectra-mlixoo8a-tdstsa"} /-->
+
+<!-- wp:spectra/buttons {"spectraId":"spectra-mlixp4es-yn43is"} -->
+<!-- wp:spectra/button {"text":"Get Direction","linkURL":"#","linkRel":[null,null,null],"linkTarget":"_self","icon":"location-arrow","iconPosition":"before","textColorHover":"var(\u002d\u002dast-global-color-5)","iconColor":"var(\u002d\u002dast-global-color-5)","backgroundColorHover":"var(\u002d\u002dast-global-color-0)","style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"border":{"width":"1px","radius":"4px"}},"backgroundColor":"transparent","textColor":"ast-global-color-5","borderColor":"ast-global-color-5","responsiveControls":{"lg":{"borderColor":"ast-global-color-5","style":{"border":{"width":"1px","radius":"4px"}}}},"spectraId":"spectra-mlixp4i8-165lox"} /-->
+<!-- /wp:spectra/buttons -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"100%","separatorHeight":"1px","separatorColor":"rgba(243, 233, 220, 0.2)","spectraId":"spectra-info-sep-1"} /-->
+
+<!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"12px"}},"spectraId":"spectra-mlixmlzv-yqr5nr"} -->
+<!-- wp:spectra/list {"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-mlixs9kh-qg0kjp"} -->
+<!-- wp:spectra/list-child-item {"index":1,"style":{"spacing":{"blockGap":"6px"},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5","spectraId":"spectra-mlixs9pp-e76u2v"} -->
+<!-- wp:spectra/list-child-icon {"itemIndex":1,"icon":"clock","flipForRTL":false,"iconSize":"18px","spectraId":"spectra-mlixs9v7-pux3px"} /-->
+<!-- wp:spectra/container {"variationSelected":true,"spectraId":"spectra-mlixs9ve-ntrqfw"} -->
+<!-- wp:spectra/content {"tagName":"h6","text":"Opening Hours","isRootBlock":false,"style":{"typography":{"textTransform":"uppercase","letterSpacing":"2px","fontSize":"13px"}},"spectraId":"spectra-mlixsd23-jhilnu"} /-->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/list-child-item -->
+<!-- /wp:spectra/list -->
+
+<!-- wp:spectra/container {"layout":{"type":"grid","columnCount":2,"minimumColumnWidth":null},"variationSelected":true,"style":{"spacing":{"blockGap":"20px","padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"spectraId":"spectra-mliy2d34-9xs1kd"} -->
+<!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"layout":{"columnSpan":1,"rowSpan":1}},"spectraId":"spectra-mliy2es0-xetps2"} -->
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"40px","separatorHeight":"1px","separatorColor":"var(\u002d\u002dast-global-color-5)","spectraId":"spectra-mliy4hg1-tlkw1s"} /-->
+<!-- wp:spectra/content {"tagName":"h5","text":"Monday-Thursday","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontSize":"16px"}},"textColor":"ast-global-color-5","spectraId":"spectra-mliy5kb7-85zz7v"} /-->
+<!-- wp:spectra/content {"tagName":"p","text":"12pm - 10pm​","isRootBlock":false,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5","spectraId":"spectra-mliy657m-wqqvc0"} /-->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"layout":{"columnSpan":1,"rowSpan":1}},"spectraId":"spectra-b9f6d6a8-28b2-44db-8d4b-6bb7ead629d9"} -->
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"40px","separatorHeight":"1px","separatorColor":"var(\u002d\u002dast-global-color-5)","spectraId":"spectra-9e20583e-8040-4797-ba21-e1ab48b5c101"} /-->
+<!-- wp:spectra/content {"tagName":"h5","text":"Friday-Sunday","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontSize":"16px"}},"textColor":"ast-global-color-5","spectraId":"spectra-97d91e2c-5c5a-4ed0-ae77-724a7c21892b"} /-->
+<!-- wp:spectra/content {"tagName":"p","text":"12pm - 11pm​","isRootBlock":false,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}}},"textColor":"ast-global-color-5","spectraId":"spectra-0c184245-1390-4846-b40c-aa271369fddc"} /-->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+
+<!-- wp:spectra/separator {"separatorAlign":"left","separatorWidth":"100%","separatorHeight":"1px","separatorColor":"rgba(243, 233, 220, 0.2)","spectraId":"spectra-info-sep-2"} /-->
+
+<!-- wp:spectra/container {"variationSelected":true,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"8px"}},"spectraId":"spectra-direct-contact"} -->
+<!-- wp:spectra/content {"tagName":"h4","text":"For reservation​","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"textAlign":"left","fontSize":"18px"}},"textColor":"ast-global-color-5","spectraId":"spectra-mliya2jx-kd2pxl"} /-->
+<!-- wp:spectra/content {"tagName":"p","text":"+1-123 456 7890 | book@example.com","isRootBlock":false,"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-5"}}},"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"20px"}},"textColor":"ast-global-color-5","responsiveControls":{"lg":{"style":{"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"20px"}}},"md":{"style":{"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"16px"}}}},"spectraId":"spectra-mliyaiu8-iwgyu9"} /-->
+<!-- /wp:spectra/container -->
+
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
+<!-- /wp:spectra/container -->
